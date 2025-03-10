@@ -1,5 +1,5 @@
 - Hi, I’m @teosweeann
-- I’m interested in writing some python scripts. 
-- I’m currently learning RUST. 
-- I’m looking to collaborate on creating some good stuff. 
-- How to reach me... travel to Shanghai, Bibo Road 690 Block 2 and start shouting my name. 
+- I write python scripts.
+- I design circuits.
+- I love computational EM.
+- I love playing cello now.
