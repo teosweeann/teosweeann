@@ -1,5 +1,1 @@
-- Hi, I’m @teosweeann
-- I write python scripts.
-- I design circuits.
-- I love computational EM.
-- I love playing cello.
+
