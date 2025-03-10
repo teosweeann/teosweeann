@@ -2,4 +2,4 @@
 - I write python scripts.
 - I design circuits.
 - I love computational EM.
-- I love playing cello now.
+- I love playing cello.
